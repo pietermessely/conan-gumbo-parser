@@ -6,7 +6,7 @@ import os
 
 class LibGumboParserConan(ConanFile):
     name = "gumbo-parser"
-    version = "0.0.1"
+    version = "0.0.2"
     description = "Gumbo parser - HTML5 parsing library"
     url = "https://github.com/pietermessely/gumbo-parser"
     homepage = "https://github.com/pietermessely/gumbo-parser"
